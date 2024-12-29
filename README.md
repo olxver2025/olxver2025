@@ -1,4 +1,6 @@
-## Hi there 👋
+## wsg
+im a 15 year old kid jst tryna do some stuff 🤷‍♂️
+here you'll find some of the stuff i make / im proud of 
 
 <!--
 **olxver2025/olxver2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

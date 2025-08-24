@@ -1,8 +1,10 @@
-## wsg
+## hey.
 
-- 15 yrs old
-- been coding for 6-7 years
 - fluent in python
-- learning web development and c#
-- what else do you wanna know
-- old acc: https://github.com/olxver
+- make discord bots
+- 15 yrs old
+- play siege, valorant, dead by daylight, clash royale
+- learning html, css, js, c#, lua
+- from england
+- what else do you wanna know lowk
+- discord: olxver.2025
